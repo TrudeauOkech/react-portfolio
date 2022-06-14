@@ -1,3 +1,11 @@
+$primaty-color:#ffd700;
+
+@import url('animate.css');
+
+@font-face{
+  font-family: 'Helvetica Neue';
+  src: url('.assets/fonts/helveica-neu.tff') format('tff');
+}
 .App {
   text-align: center;
 }
